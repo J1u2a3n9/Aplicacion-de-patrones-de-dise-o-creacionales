@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\bin\Debug\netcoreapp3.1\McNutsAdministration.exe
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\bin\Debug\netcoreapp3.1\McNutsAdministration.deps.json
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\bin\Debug\netcoreapp3.1\McNutsAdministration.runtimeconfig.json
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\bin\Debug\netcoreapp3.1\McNutsAdministration.runtimeconfig.dev.json
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\bin\Debug\netcoreapp3.1\McNutsAdministration.dll
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\bin\Debug\netcoreapp3.1\McNutsAdministration.pdb
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.csprojAssemblyReference.cache
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.AssemblyInfo.cs
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.dll
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.pdb
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutsAdministration\McNutsAdministration\obj\Debug\netcoreapp3.1\McNutsAdministration.genruntimeconfig.cache
